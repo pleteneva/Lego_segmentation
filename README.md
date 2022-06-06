@@ -4,5 +4,7 @@ https://www.kaggle.com/c/dmia-dl-aut19-segmentation/overview
 
 Using:
 PyTorch Lightning framework
-PSPNet with ResNext101-32x8d (pretrained on the imagenet) as a backbone, implementation by segmentation_model_pytorch
+
+PSPNet with ResNext101-32x8d (pretrained on the imagenet) as a backbone (segmentation_model_pytorch)
+
 Metric - IoU, loss - soft dice
