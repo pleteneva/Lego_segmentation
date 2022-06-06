@@ -8,4 +8,4 @@ PyTorch Lightning framework
 
 PSPNet with ResNext101-32x8d (pretrained on the imagenet) as a backbone (segmentation_model_pytorch)
 
-Metric - IoU, loss - soft dice
+Metric - IoU, loss - Dice loss
